@@ -1,0 +1,11 @@
+Neste bloco de estudos/aulas aprendemos a usar o Git/Github.
+Para quem não conhece o Git é uma ferramenta muito utilizada por empresas e Devs que serve para versionamento de códigos distribuído,
+ou seja, ela serve para que várias pessoas possam trabalhar, "ao mesmo tempo" em um projeto estando em locais diferentes.
+Aprendemos comandos básicos como git init, git add, git commit e outros.
+Vejamos alguns comandos importantes sobre o Git:
+git status: Serve para verificar o estado dos arquivos/diretórios;
+git add: Adiciona um arquivo/diretório para a staged area;
+git commit: Comita um arquivo;
+git clone: Clona um repositório na sua máquina;
+git pull: Atualiza repositório local de acordo com o repositório remoto;
+git push: Envia arquivos/diretórios para o repositório remoto;
